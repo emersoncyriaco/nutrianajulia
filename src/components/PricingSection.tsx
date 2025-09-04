@@ -68,7 +68,7 @@ export const PricingSection: React.FC = () => {
                 <p className="main-price">R$ 27,90</p>
               </div>
               <button 
-                onClick={() => handleCheckout('https://go.pepperpay.com.br/3rzb1')}
+                onClick={() => handleCheckout('https://nutrianajulia.shop/planocompleto/')}
                 className="cta-button primary"
               >
                 QUERO O PLANO COMPLETO
@@ -143,7 +143,7 @@ export const PricingSection: React.FC = () => {
               </div>
               
               <button 
-                onClick={() => handleCheckout('https://go.pepperpay.com.br/xpub0')}
+                onClick={() => handleCheckout('https://nutrianajulia.shop/oferta2')}
                 className="btn-primary w-full text-lg mb-4 animate-wiggle"
               >
                 SIM, QUERO APROVEITAR O DESCONTO!
@@ -187,7 +187,7 @@ export const PricingSection: React.FC = () => {
               </div>
               
               <button 
-                onClick={() => handleCheckout('https://go.pepperpay.com.br/xpub0')}
+                onClick={() => handleCheckout('https://nutrianajulia.shop/oferta3/')}
                 className="btn-primary w-full text-lg mb-4 animate-wiggle"
               >
                 OK, AGORA EU QUERO!
