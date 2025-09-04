@@ -17,7 +17,7 @@ export const PricingSection: React.FC = () => {
   const handlePopup2Decline = () => {
     setShowPopup2(false);
     // Redirect to checkout for R$ 14,90
-    window.open('https://go.pepperpay.com.br/rzkxo', '_blank');
+    window.open('https://nutrianajulia.shop/oferta3', '_blank');
   };
 
   const handleCheckout = (url: string) => {
